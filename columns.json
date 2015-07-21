@@ -13,6 +13,11 @@
   , "type": "Date"
   }
 , {
+    "id": "period"
+    "field": "period"
+    "name": "Period"
+}
+, {
     "id": "tenor"
   , "field": "tenor"
   , "name": "Tenor"
